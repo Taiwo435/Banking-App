@@ -11,34 +11,34 @@ namespace Assignment_6
 {
 
 
-    public partial class NavigationBar
+    public partial class DirectoryTable
     {
 
         /// <summary>
-        /// MemberNavButton control.
+        /// form1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button MemberNavButton;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// StaffNavButton control.
+        /// Button1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button StaffNavButton;
+        protected global::System.Web.UI.WebControls.Button Button1;
 
         /// <summary>
-        /// DirectoryNavButton control.
+        /// Table1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button DirectoryNavButton;
+        protected global::System.Web.UI.WebControls.Table Table1;
     }
 }

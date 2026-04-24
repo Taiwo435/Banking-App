@@ -13,5 +13,9 @@ namespace Assignment_6 {
         protected void StaffNavButton_Click(object sender, EventArgs e) {
             Response.Redirect("/Staff.aspx");
         }
+
+        protected void DirectoryNavButton_Click(object sender, EventArgs e) {
+            Response.Redirect("/DirectoryTable.aspx");
+        }
     }
 }
