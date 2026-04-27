@@ -1,0 +1,6 @@
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.dll
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Release\EncryptDecrypt.pdb
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.csproj.AssemblyReference.cache
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.dll
+C:\Users\Alan Escudero\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Release\EncryptDecrypt.pdb
